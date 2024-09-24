@@ -1,0 +1,32 @@
+{
+    "02029921": {
+        "date": "10/10/2024",
+        "txn_amount": 3000,
+        "description": "askdjsadsa"
+    },
+    "03029922": {
+        "date": "11/11/2024",
+        "txn_amount": 1500,
+        "description": "payment for services"
+    },
+    "04039923": {
+        "date": "12/12/2024",
+        "txn_amount": 5000,
+        "description": "office supplies purchase"
+    },
+    "05049924": {
+        "date": "13/01/2025",
+        "txn_amount": 2000,
+        "description": "consulting fee"
+    },
+    "06059925": {
+        "date": "14/02/2025",
+        "txn_amount": 2500,
+        "description": "training workshop"
+    },
+    "07069926": {
+        "date": "15/03/2025",
+        "txn_amount": 1200,
+        "description": "subscription renewal"
+    }
+}
